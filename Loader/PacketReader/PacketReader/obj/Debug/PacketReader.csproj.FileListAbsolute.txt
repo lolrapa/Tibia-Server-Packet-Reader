@@ -1,0 +1,9 @@
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\bin\Debug\PacketReader.exe.config
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\obj\Debug\PacketReader.csprojResolveAssemblyReference.cache
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\obj\Debug\PacketReader.Form1.resources
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\obj\Debug\PacketReader.Properties.Resources.resources
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\obj\Debug\PacketReader.csproj.GenerateResource.Cache
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\bin\Debug\PacketReader.exe
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\bin\Debug\PacketReader.pdb
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\obj\Debug\PacketReader.exe
+D:\Boris\Programacion\TP2\PacketReader\Injected DLL\Loader\PacketReader\PacketReader\obj\Debug\PacketReader.pdb
